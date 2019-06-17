@@ -1,0 +1,39 @@
+
+
+
+// xml
+<Personel>
+   <Employee id="000">
+     <Name>Gambardella, Matthew</Name>
+      <Address>
+        <HouseNo>67</HouseNo>
+        <Street>BRUNSWICK NORTH</Street>
+        <PostCode>3056</PostCode>
+      </Address>
+      <PhoneNumber>(03) 9902 4163</PhoneNumber>
+   </Employee>
+</Personel>
+
+// json
+Personel:
+   <Employee id="000">
+     <Name>Gambardella, Matthew</Name>
+      <Address>
+        <HouseNo>67</HouseNo>
+        <Street>BRUNSWICK NORTH</Street>
+        <PostCode>3056</PostCode>
+      </Address>
+      <PhoneNumber>(03) 9902 4163</PhoneNumber>
+   </Employee>
+</Personel>
+
+
+
+{ "Personel": [
+    { "person": {
+        "name": {"@value": "Alice"}
+    } },
+    { "person": {
+        "name": {"@value": "Alice"}
+    } }
+] }

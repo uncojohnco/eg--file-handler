@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Employees>
+  <Person id="101">
+    <city>BRUNSWICK NORTH</city>
+  <name>Gambardella, Matthew</name>
+  <phone_no>(03) 9902 4163</phone_no>
+  <street>BRUNSWICK NORTH</street>
+  <postcode>3056</postcode>
+  <house_no>67</house_no>
+  </Person>
+<Person id="102">
+    <city>SYDNEY</city>
+  <name>Ralls, Kim</name>
+  <phone_no>(02) 8783 2509</phone_no>
+  <street>Ocean street</street>
+  <postcode>2000</postcode>
+  <house_no>93</house_no>
+  </Person>
+<Person id="103">
+    <city>CORANGULA</city>
+  <name>Corets, Eva</name>
+  <phone_no>(02) 6787 7288</phone_no>
+  <street>Grandis Road</street>
+  <postcode>2440</postcode>
+  <house_no>14</house_no>
+  </Person>
+<Person id="104">
+    <city>NORTH SYDNEY</city>
+  <name>Corets, Chris</name>
+  <phone_no>(02) 9705 0639</phone_no>
+  <street>Brown street</street>
+  <postcode>2060</postcode>
+  <house_no>4</house_no>
+  </Person>
+<Person id="105">
+    <city>NORTH SYDNEY</city>
+  <name>Sisley, Evie</name>
+  <phone_no>(02) 9420 0978</phone_no>
+  <street>Brown street</street>
+  <postcode>2060</postcode>
+  <house_no>14</house_no>
+  </Person>
+<Person id="106">
+    <city>RAVENSWORTH</city>
+  <name>Randall, Cynthia</name>
+  <phone_no>(02) 4991 1662</phone_no>
+  <street>Milbrodale Road</street>
+  <postcode>2330</postcode>
+  <house_no>43</house_no>
+  </Person>
+<Person id="107">
+    <city>BRUNSWICK</city>
+  <name>Thurman, Paula</name>
+  <phone_no>(03) 9597 9556</phone_no>
+  <street>Creedon street</street>
+  <postcode>3056</postcode>
+  <house_no>79</house_no>
+  </Person>
+<Person id="108">
+    <city>BRUNSWICK HEADS</city>
+  <name>Knorr, Stefan</name>
+  <phone_no>(02) 6742 2501</phone_no>
+  <street>Chester street</street>
+  <postcode>2483</postcode>
+  <house_no>95</house_no>
+  </Person>
+<Person id="109">
+    <city>BRUNSWICK EAST</city>
+  <name>Kress, Peter</name>
+  <phone_no>(03) 9906 5753</phone_no>
+  <street>Creedon street</street>
+  <postcode>3057</postcode>
+  <house_no>17</house_no>
+  </Person>
+<Person id="110">
+    <city>LENSWOOD</city>
+  <name>O'Brien, Tim</name>
+  <phone_no>(08) 8264 1464</phone_no>
+  <street>Holthouse Road</street>
+  <postcode>5240</postcode>
+  <house_no>58</house_no>
+  </Person>
+</Employees>

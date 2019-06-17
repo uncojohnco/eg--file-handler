@@ -1,0 +1,82 @@
+{
+    "101": {
+        "city": "BRUNSWICK NORTH",
+        "house_no": "67",
+        "name": "Gambardella, Matthew",
+        "phone_no": "(03) 9902 4163",
+        "postcode": "3056",
+        "street": "Ocean street"
+    },
+    "102": {
+        "city": "SYDNEY",
+        "house_no": "93",
+        "name": "Ralls, Kim",
+        "phone_no": "(02) 8783 2509",
+        "postcode": "2000",
+        "street": "Ocean street"
+    },
+    "103": {
+        "city": "CORANGULA",
+        "house_no": "14",
+        "name": "Corets, Eva",
+        "phone_no": "(02) 6787 7288",
+        "postcode": "2440",
+        "street": "Grandis Road"
+    },
+    "104": {
+        "city": "NORTH SYDNEY",
+        "house_no": "4",
+        "name": "Corets, Chris",
+        "phone_no": "(02) 9705 0639",
+        "postcode": "2060",
+        "street": "Brown street"
+    },
+    "105": {
+        "city": "NORTH SYDNEY",
+        "house_no": "14",
+        "name": "Sisley, Evie",
+        "phone_no": "(02) 9420 0978",
+        "postcode": "2060",
+        "street": "Brown street"
+    },
+    "106": {
+        "city": "RAVENSWORTH",
+        "house_no": "43",
+        "name": "Randall, Cynthia",
+        "phone_no": "(02) 4991 1662",
+        "postcode": "2330",
+        "street": "Milbrodale Road"
+    },
+    "107": {
+        "city": "BRUNSWICK",
+        "house_no": "79",
+        "name": "Thurman, Paula",
+        "phone_no": "(03) 9597 9556",
+        "postcode": "3056",
+        "street": "Creedon street"
+    },
+    "108": {
+        "city": "BRUNSWICK HEADS",
+        "house_no": "95",
+        "name": "Knorr, Stefan",
+        "phone_no": "(02) 6742 2501",
+        "postcode": "2483",
+        "street": "Chester street"
+    },
+    "109": {
+        "city": "BRUNSWICK EAST",
+        "house_no": "17",
+        "name": "Kress, Peter",
+        "phone_no": "(03) 9906 5753",
+        "postcode": "3057",
+        "street": "Creedon street"
+    },
+    "110": {
+        "city": "LENSWOOD",
+        "house_no": "58",
+        "name": "O'Brien, Tim",
+        "phone_no": "(08) 8264 1464",
+        "postcode": "5240",
+        "street": "Holthouse Road"
+    }
+}
