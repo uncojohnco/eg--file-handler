@@ -16,6 +16,7 @@
 
 ## Installation
 ***
+download https://github.com/uncojohnco/test-file-handler/archive/develop.zip or clone `https://github.com/uncojohnco/test-file-handler.git`
 
 1. <current_path> \> ```cd <path_to_repo>/src```
 2. <path_to_repo>/src \> ```python main.py -h```
