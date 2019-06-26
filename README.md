@@ -1,3 +1,8 @@
+Note to self: After reviewing this code this evening, I have changed and learnt so much since last laying eyes on this code 3 years ago. 
+Hence, I should revist this and revamp it in Python 3 🙃
+
+---
+
 ## Synopsis
 ***
 * Tool to open up various storage formats and to convert between them.
